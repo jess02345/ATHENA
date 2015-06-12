@@ -1,0 +1,7 @@
+using System.Speech.Recognition;
+using System.Speech.Synthesis;
+using System.IO;
+
+namespace ATHENA_1._0
+{
+	public partial class 
